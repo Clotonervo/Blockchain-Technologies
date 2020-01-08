@@ -1,0 +1,12 @@
+Class Prep:
+- Watched entirety of Lecture 1 video, as well as reviewed slides and took Quiz 1
+
+Questions:
+1. What are applications/examples of bad and good randomness?
+2. What other examples can we use signatures for? Is it cryptocurrency exclusive?
+3. What are the pros and cons of the availabiltiy that comes from creating unlimited identities?
+4. Do Bitcoin coins have a long list of signatures whenever it is transfered?
+I would like to review some of the basic stuff from lecture 1 if possible
+
+Summary:
+	There is a lot of different ways to keep cryptocurrency secure. Hashing is a very important part of keeping information secure and valid, and hash pointers are great ways to make tamper free data structures. Signatures are also a necessary way to keep identities a secret while also providing some sort of security that is necessary for transactions. One of the biggest problems a cryptocurrency needs to solve is that of double-spending, and also that of decentralization. 
