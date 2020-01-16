@@ -1,0 +1,16 @@
+Reading:
+	Took a little bit to read and learn some stuff from the Bitcoin Whitepaper. It was very interesting and I was surprised at how much I understood as I read.
+
+	Rewatched some of the lecture video to solidify understanding of proof of work, also went to the different sections that corresponded to the quiz questions so I understood more of the questions I missed.
+
+	https://www.fool.com/investing/2018/04/11/20-real-world-uses-for-blockchain-technology.aspx - An interesting, but short article on what other types of markets blockchain technologies can be used for.
+
+Exercises:
+
+5a) A miner can continue with a greater sense of randomness. If she is random enough, and uses different public keys, it will be harder for her to be linked to a public profile. If you also include random transactions in your blocks that you try and mine, then you will also keep your identity safe. 
+
+5b) Theoretically yes, but because the mining pool is so big, and there is not a good way to accurately determine whether or not a person truly is who you think they are, in practice this is irrelevant.
+
+6a) It is greater than 50%, because the majority of the blocks are actually mined before 10 minutes, as the probablility that a block is mined increases exponentially.
+
+6b) For a 99% probability that 6 blocks are mined, Bob would have to wait over an hour. While you do have a pretty good chance of waiting an hour to get your payment, you are not 99% gaurenteed that you are at 6 blocks, because some blocks will be mined quicker and some slower. 
