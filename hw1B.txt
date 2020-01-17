@@ -1,0 +1,13 @@
+Exercises: 
+4. When Mallory's secret key eventually matchs someone else's, she can then sign transactions as the other person, potentially giving herself coins and using their money to purchase other things. How long it will take her depends on all the possible combinations that sk can be. 
+
+If Alice's random number generator has a bug and her key generation can only produce 1,000 distinct pairs, it is very likely that someone will be able to obtain a secret key that is identical to one Alice owns, as only 1,000 possible pairs are available, and generating 1,000 different keys is easy for a simple program to brute force.
+
+Other sources studied:
+http://home.iitk.ac.in/~sidm/cs300/5.pdf
+https://en.wikipedia.org/wiki/SHA-1
+https://en.wikipedia.org/wiki/SHA-2
+https://www.coindesk.com/bitcoin-hash-functions-explained
+https://blockgeeks.com/guides/what-is-hashing/
+
+One of the biggest take aways that I found while studying the different hash functions included the fact that the major difference between SHA1 and SHA2 was simply the length of the digest. By providing a longer hash value, the hash becomes more complex. This simple fact really stood out to me because now I am wondering why we don't use very long hashes just to keep security. I understand that SHA-256 is secure, and can use a preditable amount of CPU, but in reference to security, why don't we just use even longer hashes just to be safer?

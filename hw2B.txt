@@ -1,0 +1,16 @@
+
+Sources I read:
+https://www.theverge.com/2019/1/9/18174407/ethereum-classic-hack-51-percent-attack-double-spend-crypto
+https://www.bitcoinmining.com
+https://cointelegraph.com/explained/bitcoin-halving-explained
+https://www.investopedia.com/terms/b/bitcoin-mining.asp
+
+Exercises:
+1. Miners need to keep track of the entire block chain becuase they need to verify all the way back to the genesis block when mining so they know if a block has been tampered with in the past. For payment verification, it is only necesary to verify around 6 blocks back in order to confirm that your payment is probably safe to collect.
+
+3. All Bob really neads is to make sure that the CA->B node gets around 6 or more blocks that are confirming it to really feel like the transaction is safe, because the probablility of the other block catching up after 6 is so exponentially low, that he really does not need to worry. The length of the block is irrelevant because the probability that both blocks have similar lengths for an extended period of time is also exponentially low. 
+
+4.
+	a) Whichever block the majority of the miners confirm, even if there is a debate between two honest blocks, the miners decide which ones they build off of, and if one is built off of more quickly than another, then that one is orphaned
+
+	d) No because Mynie can still get the mining reward, and it is solely dependent on the other miners.

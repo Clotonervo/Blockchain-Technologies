@@ -1,0 +1,5 @@
+1. I watched the entire lecture and took the quiz
+2. 	a) I want to talk more about how blocks are picked
+	b) I want help understanding Proof of work
+	c) How do all computers keep a record of the nodes? I'm also still confused as to how they keep the time to be around 10 minutes.
+3.	I learned a lot about how bitcoin is decentralized, and I learned about how the hashes are used to randomly choose the next node. I learned certain things about how nodes are treated on the blockchain, such as choosing the longest chain, and also how double spending is possible to achieve. I learned what it means to have a complete transaction, that it is only a probablitly of a transaction that is completed because the odds of nodes not picking a chain with a transaction in it are close to zero the longer the chain is. I also learned the probablitliy that a block is mined by any one miner.
