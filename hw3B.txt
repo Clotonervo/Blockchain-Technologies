@@ -1,0 +1,15 @@
+https://freedom-to-tinker.com/2015/07/28/analyzing-the-2013-bitcoin-fork-centralized-decision-making-saved-the-day/
+https://themoneymongers.com/pay-to-script-hash-p2sh/
+https://bitcoin.stackexchange.com/questions/9678/what-is-script-hash-address-exactly-and-how-does-it-work
+
+
+Exercises:
+6. One way that you could do this is have every transaction that has a green address needs to be approved by the green address. By making sure that the green addresses are more involved with the different transactions, it is more likely that they will catch any double spending that comes. It would make it more centralized by having more power being held in the different parties that hold the green addresses, but it also would help protect against double spending as well.
+
+8. 	a) This would be a hard fork, because by adding a new OP_SHA3 script instruction, it would make some invalid blocks valid,
+	b) This would be a soft fork, because disabling the OP_SHA1 instruction would make old blocks invalid.
+	c) This would be a soft fork, because this would simply make some valid blocks invalid, but doesn't change with blocks that start doing this, this can be used now
+	d) Also a soft fork, as this would only effect blocks that are valid, but new blocks that do this can also be accepted by older nodes.
+	
+9.	a) In total, 24 blocks were lost because of the version 0.8 bug. I read the article above on it and it seems like it was a very critical problem in the bitcoin clients.
+	b) According to the article I read above, the addition of pay to hash resulted in 94 orphaned blocks. The block that shows this is actually in the article if you want to look at it and maybe explain it to me a little more in class.
