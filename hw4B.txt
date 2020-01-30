@@ -1,0 +1,20 @@
+
+Assigned exercises from chapters 1-4 (Default)
+
+Answer your own questions (optional)
+
+Report on learning from outside resources (optional)
+
+Additional Learning:
+https://crypto.stackexchange.com/questions/50725/is-this-a-good-way-of-splitting-a-private-key-into-a-2-of-3-scheme
+https://medium.com/@apogiatzis/shamirs-secret-sharing-a-numeric-example-walkthrough-a59b288c34c4
+https://en.bitcoin.it/wiki/Currency_exchange
+https://www.investopedia.com/terms/b/bitcoin-exchange.asp
+https://bitcoin.stackexchange.com/questions/19251/how-do-bitcoin-exchanges-work
+
+Exercies:
+	3.2 All Alice would have to do in order to consolidate her coins is to make a lot of little transactions, as the policy for transaction fees is that it goes up after 1000 bytes, but anything less than that is free. This means that as long as Alice can keep her constructed transactions below 1000 each time, then she won't have to pay any transaction fee, and can consolidate her coins together into higher values.
+
+	5.1 I feel like part of the reason it is cheaper to buy from a person rather than an online exchange is a simple transaction won't require a lot of fees that would normally be required when trading with an exchange. Fees are required to convert bitcoin into dollars as well as they are required by the exchange as how they gain profit
+
+	6. I assume that the bitcoin payment service can actually see Alice's transaction id on the blockchain, or at least it can verify it someway through an exchange. This to me would be the most plausible way to confirm a transaction.
