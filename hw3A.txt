@@ -1,0 +1,7 @@
+1. Watched the video lecture and took the quiz.
+
+2. 	a) I want to talk more about soft forking, as I didn't super understand what it was
+	b) I want to learn more about the pay-to-script
+	c) I would like to learn more about the actual integrity of a bitcoin block i more details so I can nail down block structure.
+
+3. The most interesting thing I learned this section was the different methods to make bitcoin valid with microtransactions and green accounts. I thought each of those examples were fascinating, and while I don't fully understand the pay-to-script method, I think it was something very interesting that I hadn't thought about. The multi-script transactions are a very clever way to help minimize the number of transactions between two parties. I also really loved learning about hard forking as this was a question I had trouble understanding before the video. A lot of stuff in the video answered questions that I asked in class and It was neat to get a confirmation of what we have talked about with nodes and conflicting transactions in a lecture.
