@@ -1,0 +1,5 @@
+1. I listened to the lecture video and took the quiz
+
+2. I really would love to talk about the lower and upper bound for energy, I felt a little lost about those. I also would love to discuss in detail more stuff about mining pools and maybe some more examples of those.
+
+3.	Miners have different strategies and practices they use to maximize bitcoin mining. These include minepools. There are ways to understand the energy efficiency of mining by analyzing the upper and lower bounds of energy needed for miners and mining pools. Successfully maintaing mining power for cryptocurrencies takes a lot of energy and can fluxuate depending on the value of bitcoin, because if the price of bitcoin is not worth the money then miners will fall out.

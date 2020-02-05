@@ -1,0 +1,9 @@
+Outside of class readings:
+https://www.sigenics.com/blog/what-is-an-asic
+https://captainaltcoin.com/what-is-pool-mining/
+https://www.buybitcoinworldwide.com/mining/pools/
+https://www.investopedia.com/tech/how-choose-cryptocurrency-mining-pool/
+https://kingpassive.com/mining-cryptocurrency/
+
+I also looked over the slides for chapter 5, and reviewed some concepts from the lecture.
+I don't know if this counts, but I also have been designing an implementation for assignment 1.
