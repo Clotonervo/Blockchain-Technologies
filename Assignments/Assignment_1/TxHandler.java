@@ -1,5 +1,5 @@
 import java.security.PublicKey;
-import java.util.ArrayList;
+import java.util.*;
 
 public class TxHandler {
 
@@ -23,9 +23,12 @@ public class TxHandler {
      *     values; and false otherwise.
      */
     public boolean isValidTx(Transaction tx) {
-        // ------- 1: all outputs are in current UTXO pool
+    	List<Transaction.Input> inputs = tx.getInputs();
+    	List<Transaction.Output> outputs = tx.getOutputs();
+
+        // ------- 1: all outputs are in current UTXO pool      //DONE
         for(int i = 0; i < tx.numInputs(); i++){
-            UTXO utxo = new UTXO(tx.getInput(i).prevTxHash, tx.getInput(i).outputIndex);
+            UTXO utxo = new UTXO(inputs.get(i).prevTxHash, inputs.get(i).outputIndex);
             if(!utxoPool.contains(utxo)){
                 return false;
             }
@@ -33,50 +36,47 @@ public class TxHandler {
 
         // ------- 2: all signatures on each input are valid
         for(int i = 0; i < tx.numInputs(); i++){
-            PublicKey publicKey = tx.getOutput(tx.getInput(i).outputIndex).address;
+        	UTXO utxo = new UTXO(inputs.get(i).prevTxHash, inputs.get(i).outputIndex);
+            PublicKey publicKey = utxoPool.getTxOutput(utxo).address;
             byte[] message = tx.getRawDataToSign(i);
-            byte[] signature = tx.getInput(i).signature;
+            byte[] signature = inputs.get(i).signature;
 
             if(!Crypto.verifySignature(publicKey, message, signature) ){
                 return false;
             }
         }
 
-        // ------- 3: no UTXO is claimed multiple times
+        // ------- 3: no UTXO is claimed multiple times     //DONE
         ArrayList<UTXO> listOfUTXO = new ArrayList<>();
         for(int i = 0; i < tx.numInputs(); i++){
-            UTXO utxo = new UTXO(tx.getInput(i).prevTxHash, tx.getInput(i).outputIndex);
+            UTXO utxo = new UTXO(inputs.get(i).prevTxHash, inputs.get(i).outputIndex);
             if(listOfUTXO.contains(utxo)){
                 return false;
             }
             listOfUTXO.add(utxo);
         }
 
-        // ------- 4: All output values are non-negative
+        // ------- 4: All output values are non-negative        //DONE
         for(int i = 0; i < tx.numOutputs(); i++){
-            if(tx.getOutput(i).value < 0){
+            if(outputs.get(i).value < 0){
                 return false;
             }
         }
 
         // ------- 5: The sum of output values inputs are greater than or equal to the sum of its outputs
-        int sumInputs = 0;
-        int sumOutputs = 0;
+        double sumInputs = 0;
+        double sumOutputs = 0;
 
         for(int i = 0; i < tx.numOutputs(); i++){
-            sumOutputs += tx.getOutput(i).value;
+            sumOutputs += outputs.get(i).value;
         }
 
         for(int i = 0; i < tx.numInputs(); i++){
-            UTXO utxo = new UTXO(tx.getInput(i).prevTxHash, tx.getInput(i).outputIndex);
+            UTXO utxo = new UTXO(inputs.get(i).prevTxHash, inputs.get(i).outputIndex);
             sumInputs += utxoPool.getTxOutput(utxo).value;
         }
 
-        if(sumOutputs < sumInputs){
-            return false;
-        }
-
-        return true;
+        return sumOutputs < sumInputs;
     }
 
     /**
