@@ -1,0 +1,7 @@
+I watched the lecture video and took the quiz
+
+1. I want to know more about how zero knowledge proofs work coding wise
+2. I didn't quite understand the graph in the lecture that was talking about the different sources with mining. 
+3. How can people link different transaction address to a single person? I would like some more explanation with that.
+
+Basically bitcoin deals well with pseudonymity, which is basically using public key hashes as an identity. Bitcoin makes it hard to link different addresses to the same users and differnet transactions. While there are other cryptocurrencies that do allow anonymity (zeroCash), the problems and trade offs that come with that make it hard for Bitcoin to truly be anonymous, and generally the users of Bitcoin prefer the decentralization over the anonymity anyway. We also learned about certain ways to maintain anonymity (to a degree) with things like mixing and coinjoins. Other services like Tor also model a way that we can keep ourselves anonymous as well in peer to peer connections.

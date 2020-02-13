@@ -1,0 +1,8 @@
+Review:
+	I listened to the lecture for chapter 5 again to try and gain some extra knowledge
+	I also worked more on the assignment given, and I should be completed now.
+
+Other readings:
+	https://www.theguardian.com/technology/2013/nov/05/tor-beginners-guide-nsa-browser
+	https://www.digitaltrends.com/computing/a-beginners-guide-to-tor-how-to-navigate-through-the-underground-internet/
+	https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff

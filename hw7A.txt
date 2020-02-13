@@ -1,0 +1,7 @@
+For this class, I listened to the lecture and completed the quiz.
+
+Questions:
+	When has rule setting been implemented in the blockchain? Have rules changed a lot since the release of bitcoin? Would rule changes cause forks? Or do minors normally vote and agree on most rule changes so far? What would cause bitcoin's market to fail, and is that probable to happen?
+
+
+Bitcoin is a fairly unregulated currency, which makes it difficult to enforce laws in certain countries. This also makes it easier to money launder, but with these problems governments have come up with a few creative solutions in order to regulate bitcoin without centralizing the currency. Certain laws prevent money laundering by requiring identity, and even bitcoin's own community is run by everyone, so many honest people have a say in how it changes. The government can make bitcoin different than the national currency, so they have more power over it as well. Bitcoin is a great example of an unregulated market, and has shown so far how successful that has been.
