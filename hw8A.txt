@@ -1,0 +1,10 @@
+I watched the lecture, read part of the textbook chapter, and attempted to take the quiz but it was closed due to me being too late.
+
+Questions:
+	1. In what other circumstances would designing memory hard puzzles be beneficial to a company? Is this why it mentions in the text that scrypt has been used for password protection?
+	2. Are vigilante attacks more common than malicious syllable attacks/other malicious blocks?
+	3. The text also mentions that asic resistance didn't really end well for Litecoin, could there be asics that are designed to find passwords to accounts?
+	4. Why are vigilante attacks a thing?
+
+Paragraph:
+	My understanding from the chapter is talking a lot about the different alternatives to mining puzzles. I learned a lot about the attempt to make asic resistant puzzles, especially with memory hard puzzles, and the fact that in practice they don't work as well as we would hope. The thing that fascinated me the most, however, was the concept of a vigilante attack on a mining pool, because I was wondering why people wouldn't just do this. I can't help but think there would be some profit to not giving the block but instead giving a lot of scripts, but according to the chapter they say that there is no profit involved at all for the attacker. Also, although I didn't understand a whole lot about virtual mining or the implementation therof, that concept fascinates me.
