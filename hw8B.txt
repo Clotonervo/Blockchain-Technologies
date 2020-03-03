@@ -1,0 +1,8 @@
+Outside readings:
+	https://angel.co/company/virtual-mining
+	https://en.cryptonomist.ch/2019/05/18/what-is-bitcoin-cloud-mining-virtual-mining/
+	https://cryptoslate.com/asic-resistance-is-still-worth-the-fight-for-egalitarian-mining-this-time-with-merkle-tree-proofs-mtp/
+	https://hackernoon.com/asic-resistance-is-nothing-but-a-blockchain-buzzword-b91d3d770366
+
+
+I also reviewed the lecture as well

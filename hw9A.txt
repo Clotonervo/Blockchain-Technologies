@@ -1,0 +1,7 @@
+I watched the lecture and took the quiz
+
+What are the reasons of timestamping, is it that important in the world of crytography? Are there other ways to replecate timestamping? What makes timestamping so secure? Is the append only log the way to make sure that timestamping is accurate and secure? 
+
+What are examples of Overlay currency? Have overlay currencies actually been successful?
+
+This chapter we talk a lot about bitcoin as an actual platform. We go over the concept of timestamping, and what it can and can't be used for. Bitcoin is an append-only log, meaning you can only add to it, you can't alter or change it. Also the concept of cryptographic beacons was new to me and is very fascinating, especially talking about using bitcoin as a beacon. It is incredible to me how little we know about true randomness, and how useful a perfect cryptographic beacon would be in society.
