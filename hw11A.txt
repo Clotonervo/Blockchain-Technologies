@@ -1,0 +1,5 @@
+I watched the lecture and read a little bit from the book and took the quiz
+
+I want to know more about how atomic transactions work, as I think I understand the basics but they are still confusing to me. How has no one figured out a good way to keep access to smart property even when you loose an important device with your private key on it? 
+
+This chapter talks specifically on decentralization, and the future that that has tied into daily lives from blockchain examples. From private keys on car fobs to even selling cars securely, there are many different ways that blockchain can be used to decentralize our lives. While Bitcoin is talked a lot in this book, it also mentions that there may be alternatives to the bitcoin blockchain when it comes to other aspects of our lives rather than just currency. This would also improve on the scripting functionality that Bitcoin currently uses, and could be then used for a variety of things. 
