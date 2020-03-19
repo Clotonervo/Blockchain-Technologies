@@ -1,0 +1,7 @@
+For this assignment, I reviewed the slides from last few chapters. I also rewatched some of the lecture for chapter 11 in order to understand some concepts a little more.
+
+I also downloaded and read the spec of Assignment 3
+
+Additional readings:
+	https://en.bitcoin.it/wiki/Atomic_swap
+	https://blockgeeks.com/guides/atomic-swaps/

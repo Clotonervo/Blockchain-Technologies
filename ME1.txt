@@ -1,0 +1,5 @@
+For my homework I read the chapter of ME, I also did some of the further readings, but didn't understand much.
+
+Questions: 1. What does it mean that Ethereum is known as the "World computer"? 2. What caused so many forks in the Ethereum blockchain? 3. Do people primarily use Ethereum as a computational benefit or as a currency?
+
+	Ethereum, from what I understand, is an incredibly powerful cryptocurrency. It was originally designed to be a blockchain as a computer. While I don't fully understand what that means, it seems to me that it was designed to allow people to make super high computations easily. I found this super interesting. There have been many forks in Ethereum's blockchain, and there are many benefits that come from a cryptocurrency like Ethereum that are more flexible than other conventional blockchains.

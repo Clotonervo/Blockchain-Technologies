@@ -1,0 +1,5 @@
+I read the chapter, but a lot of my time outside of class was focused on Assignment 3
+
+Insights on the chapter:
+
+	It was really interesting to see how Ethereum actually works in a technical sense. I especially was fascinated by the different values and their names, as Bitcoin seems to only have a Satoshi as a lower value other than itself. The tutorial was fairly simple, and I did it even though I wasn't sure it was required. I have used some of the wallets mentioned, specifically Jaxx as it does have very simple UI and is very intuitive when it comes to trading cryptocurrencies.

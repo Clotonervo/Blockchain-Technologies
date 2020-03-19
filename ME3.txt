@@ -1,0 +1,6 @@
+For the majority of my outside of classroom work, I worked on Assignment 3, but I also read chapter three of ME
+
+Questions: What do people gain from running full Ethereum nodes? Are those listed the only benefits, and do they normaly outweight the costs that it takes to keep full nodes? Why is there a big descrepency on how much GB a full node would need (80 to 300 gigabytes is a big gap)? 
+
+Notes from reading:
+	The biggest thing I pulled from the reading is the extensive requirements that there are to run Ethereum nodes. It seems like there are a LOT of things that you need in order to even have a node running on your computer, and as far as I understand the requirements are a lot more rigorous for Ethereum than they are for Bitcoin or other cryptocurrencies. An interesting fact is that my parents tell me that Go is the preferred coding language for Ethereum, and that it coencides really well with it, so it was interesting to read about how Go interacts with Ethereum. While I didn't understand a lot of the what the chapter was saying with the tutorial (I did not follow along because I didn't have the specifications for it), I found it fascinating how many different ways you could make a node.

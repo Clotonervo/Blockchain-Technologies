@@ -1,0 +1,5 @@
+The majority of my time this week was consumed by Assignment 3, but I read chapter 4 as well
+
+What is the difference between SHA3 and Keccek-256? Is one more advanced than the other? 
+
+This chapter starts out by talking about the two different types of accounts, EOAs and contracts. It seems like its the same as bitcoin though by having private keys signify ownership of an account. I feel like the general idea of Ethereum is very similar to that of Bitcoin as well. There was a lot of math in this chapter that was difficult for me to understand, but what I got was that the generation of an Ethereum private key is very similar to the theory of Bitcoin private key generation. That seems to have been inherited. I really enjoyed reading about the different properties of cryptographic hash functions though, as I had never known about a lot of those properties. Ethereum uses Keccak-256 hash function. One thing I thought was interesting was the fact you only keep the last 20 bytes as your address.
