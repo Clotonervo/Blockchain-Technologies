@@ -1,0 +1,3 @@
+I read the chapter for my homework
+
+This chapter talked about something interesting related to ethereum, oracles. These contracts are interesting because they can see and interpret outside questions to ethereum. According to the chapter as well, because they operate in a decentralized system, they are trustless, meaning they do not need to be trusted, however this is ideal and may not always be the case. Oracles essentially connect the ethereum blockchain/contracts to the real world, and can be used to alter contracts based on real world events. As mentioned in the chapter, this can cause some security vulnerabilities to the ethereum blockchain, but sometimes that is necessary to have a contract that interacts with the outside world and uses outside information.
