@@ -1,0 +1,3 @@
+I read the chapter for the homework
+
+This chapter talked about Decentralized applications. In order to make a decentralized app, you need to keep all the different parts of the application decentralized, such as the backend, frontend, and databases. Doing this poses a huge problem, but provides also some advantages, sucha s resiliency, transparency, and censorship resistance. These are very desirable to the people who want that decentralized advantages. Using Ethereum technologies, they were able to create these decentralized applications (such as auctions) by using smart contracts and other verifiers. We then learned some of the deeper functionality of building a decentralized application.
