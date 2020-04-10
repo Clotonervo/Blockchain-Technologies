@@ -1,0 +1,3 @@
+I read the chapter for my homework
+
+I found it interesting how many different attacks there were for contracts. I found that it was interesting how hard and serious programming smart contracts truly is, and I thought it was interesting how you need to make sure you catch your mistakes before sending your code. I wonder how many contracts are active now that have some of these vulnerabilities. Going through the different vulnerabilites was interesting, it was a little hard to decypher some of the code, but in the end I think I understood enough to grasp the chapter's concepts.

@@ -1,0 +1,3 @@
+I read chapter 5 for my homework
+
+It was really great to talk more about the different interworkings of wallets. We talk about them a lot and that they are used to store cryptocurrencies, but we never necessarily talk about how. I was super interested in looking at the heirarchcal wallet as that makes a lot of sense to me on how to get all your public keys into one account. The though of losing a master key really makes me anxious though, as then you would loose all acounts on your wallet. I have some experience with the word seeding too, as the wallet I used to trade cryptocurrencies also had something like it. Wallets definatly make cryptocurrency as popular as it is today because they just make everything so much easier than it seems.

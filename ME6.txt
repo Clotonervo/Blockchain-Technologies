@@ -1,0 +1,3 @@
+I read chapter 6 for the homework
+
+This chapter we talk about transactions, which I quickly found was a little different than Bitcoin's transactions. The first thing I noticed that was odd was the "gas" variable in transactions. We also never talked about nonces in transactions, but here it seems like it is a sort of transaction ID to prevent people from draining your account after a single transaction. As I read more on what gas was, it was super strange to see that it is indeed a separate currency from ether! We also read more about the elliptic curve when talking about ECDSA, and it ws super interesting to see what exactly ethereum transactions do in order to complete.

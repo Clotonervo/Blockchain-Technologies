@@ -1,0 +1,3 @@
+I read the chapter for my homework
+
+One thing I found very fascinating about Vyper contracts is the vulnerabilities that smart contracts contain. I never knew or heard of suicidal contracts or greedy contracts, but I found that very interesting that that was a problem to be solved. I also thought that Vyper's solution to that problem was really interesting, and it was fascinating to me the main way it does it is by simply omitting features that were introduced to Solidity.I thnk it  is also interesting that now with smart contracts we have a choice between more secruity (correctness) and more flexibility with our smart contracts. This might help smart contracts be more airtight and secure, and help programmers create better smart contracts.
