@@ -1,0 +1,3 @@
+I read the chapter for the homework and did some ethernaut puzzles
+
+This chapter talks mainly about concensus in Ethereum. Consensus is when the whole system agrees on a single state, in cryptocurrency meaning that the whole network agrees on the transactions in the nodes. Ethereum has its hown proof of work algorithm called Ethash.  It also has its own proof of stake algorithm named Casper. The chapter explains the basic principles of consensus, such as immutability and finality. Casper and Ethash make a huge impact in reaching of censensus.
